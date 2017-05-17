@@ -40,7 +40,8 @@
 			"id": "firebase",
 			"description": "Store your data in Google Firebase",
 			"tag": [
-				"backend"
+				"backend",
+				"BACKENDD"
 			],
 			"repo": "lizziew/mavo-firebase",
 			"author": "lizziew"
